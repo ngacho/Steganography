@@ -1,360 +1,360 @@
 Potential useful TEXT on HORIZONTAL StetchyYawnyBois.png
 	 CHANNEL: Red
 	 BIT OF SIGNIFICANCE: 1
-	 height: 3839
-	 width: 2251428240
+	 first 32 bits: 3839
+	 next 32 bits: 2251428240
 
 Potential useful TEXT on VERTICAL StetchyYawnyBois.png
 	 CHANNEL: All
 	 BIT OF SIGNIFICANCE: 1
-	 height: 1784
-	 width: 543121247
+	 first 32 bits: 1784
+	 next 32 bits: 543121247
 
 Potential useful TEXT on VERTICAL Chio2.png
 	 CHANNEL: Red
 	 BIT OF SIGNIFICANCE: 6
-	 height: 4096
-	 width: 2415919103
+	 first 32 bits: 4096
+	 next 32 bits: 2415919103
 
 Potential useful IMAGE on VERTICAL Chio2.png
 	 CHANNEL: All
 	 BIT OF SIGNIFICANCE: 6
-	 height: 0
-	 width: 64
+	 first 32 bits: 0
+	 next 32 bits: 64
 
 Potential useful TEXT on VERTICAL Lurking.png
 	 CHANNEL: Red
 	 BIT OF SIGNIFICANCE: 3
-	 height: 4280
-	 width: 1941109080
+	 first 32 bits: 4280
+	 next 32 bits: 1941109080
 
 Potential useful IMAGE on VERTICAL Lurking.png
 	 CHANNEL: All
 	 BIT OF SIGNIFICANCE: 3
-	 height: 320
-	 width: 240
+	 first 32 bits: 320
+	 next 32 bits: 240
 
 Potential useful TEXT on HORIZONTAL AlmostBoop.png
 	 CHANNEL: Green
 	 BIT OF SIGNIFICANCE: 7
-	 height: 2207
-	 width: 4026535999
+	 first 32 bits: 2207
+	 next 32 bits: 4026535999
 
 Potential useful TEXT on HORIZONTAL AlmostBoop.png
 	 CHANNEL: Blue
 	 BIT OF SIGNIFICANCE: 7
-	 height: 2207
-	 width: 2684354567
+	 first 32 bits: 2207
+	 next 32 bits: 2684354567
 
 Potential useful IMAGE on VERTICAL Chio1.png
 	 CHANNEL: All
 	 BIT OF SIGNIFICANCE: 1
-	 height: 240
-	 width: 320
+	 first 32 bits: 240
+	 next 32 bits: 320
 
 Potential useful TEXT on VERTICAL Chio1.png
 	 CHANNEL: Red
 	 BIT OF SIGNIFICANCE: 5
-	 height: 2
-	 width: 2448964688
+	 first 32 bits: 2
+	 next 32 bits: 2448964688
 
 Potential useful TEXT on HORIZONTAL Castle.png
 	 CHANNEL: Red
 	 BIT OF SIGNIFICANCE: 1
-	 height: 4126
-	 width: 375741274
+	 first 32 bits: 4126
+	 next 32 bits: 375741274
 
 Potential useful IMAGE on HORIZONTAL Castle.png
 	 CHANNEL: All
 	 BIT OF SIGNIFICANCE: 1
-	 height: 320
-	 width: 240
+	 first 32 bits: 320
+	 next 32 bits: 240
 
 Potential useful TEXT on HORIZONTAL AmVase.png
 	 CHANNEL: All
 	 BIT OF SIGNIFICANCE: 1
-	 height: 59
-	 width: 1769235826
+	 first 32 bits: 59
+	 next 32 bits: 1769235826
 
 Potential useful TEXT on HORIZONTAL AmVase.png
 	 CHANNEL: Red
 	 BIT OF SIGNIFICANCE: 7
-	 height: 462
-	 width: 4291821568
+	 first 32 bits: 462
+	 next 32 bits: 4291821568
 
 Potential useful TEXT on VERTICAL AmVase.png
 	 CHANNEL: Red
 	 BIT OF SIGNIFICANCE: 7
-	 height: 288
-	 width: 4202771967
+	 first 32 bits: 288
+	 next 32 bits: 4202771967
 
 Potential useful IMAGE on HORIZONTAL AmVase.png
 	 CHANNEL: Green
 	 BIT OF SIGNIFICANCE: 7
-	 height: 0
-	 width: 8191
+	 first 32 bits: 0
+	 next 32 bits: 8191
 
 Potential useful IMAGE on HORIZONTAL Lurking_Color_Balanced.png
 	 CHANNEL: All
 	 BIT OF SIGNIFICANCE: 1
-	 height: 240
-	 width: 320
+	 first 32 bits: 240
+	 next 32 bits: 320
 
 Potential useful IMAGE on HORIZONTAL Lurking_Color_Balanced.png
 	 CHANNEL: All
 	 BIT OF SIGNIFICANCE: 2
-	 height: 240
-	 width: 320
+	 first 32 bits: 240
+	 next 32 bits: 320
 
 Potential useful IMAGE on HORIZONTAL Lurking_Color_Balanced.png
 	 CHANNEL: All
 	 BIT OF SIGNIFICANCE: 3
-	 height: 240
-	 width: 320
+	 first 32 bits: 240
+	 next 32 bits: 320
 
 Potential useful TEXT on HORIZONTAL FlyAway.png
 	 CHANNEL: Red
 	 BIT OF SIGNIFICANCE: 1
-	 height: 617
-	 width: 1466464544
+	 first 32 bits: 617
+	 next 32 bits: 1466464544
 
 Potential useful IMAGE on VERTICAL IsThatAMoth.png
 	 CHANNEL: All
 	 BIT OF SIGNIFICANCE: 2
-	 height: 240
-	 width: 320
+	 first 32 bits: 240
+	 next 32 bits: 320
 
 Potential useful IMAGE on VERTICAL IsThatAMoth.png
 	 CHANNEL: Red
 	 BIT OF SIGNIFICANCE: 5
-	 height: 0
-	 width: 20
+	 first 32 bits: 0
+	 next 32 bits: 20
 
 Potential useful TEXT on VERTICAL IsThatAMoth.png
 	 CHANNEL: Green
 	 BIT OF SIGNIFICANCE: 5
-	 height: 4190100480
-	 width: 127
+	 first 32 bits: 4190100480
+	 next 32 bits: 127
 
 Potential useful IMAGE on HORIZONTAL AlbumCover.png
 	 CHANNEL: Green
 	 BIT OF SIGNIFICANCE: 1
-	 height: 320
-	 width: 240
+	 first 32 bits: 320
+	 next 32 bits: 240
 
 Potential useful TEXT on VERTICAL AlbumCover.png
 	 CHANNEL: All
 	 BIT OF SIGNIFICANCE: 6
-	 height: 1792
-	 width: 1996455934
+	 first 32 bits: 1792
+	 next 32 bits: 1996455934
 
 Potential useful TEXT on HORIZONTAL FlossyBoi.png
 	 CHANNEL: Green
 	 BIT OF SIGNIFICANCE: 1
-	 height: 194
-	 width: 1098129524
+	 first 32 bits: 194
+	 next 32 bits: 1098129524
 
 Potential useful TEXT on VERTICAL EagleInAmherst.png
 	 CHANNEL: Green
 	 BIT OF SIGNIFICANCE: 4
-	 height: 8192
-	 width: 262027184
+	 first 32 bits: 8192
+	 next 32 bits: 262027184
 
 Potential useful IMAGE on HORIZONTAL Boyos.png
 	 CHANNEL: Red
 	 BIT OF SIGNIFICANCE: 1
-	 height: 240
-	 width: 320
+	 first 32 bits: 240
+	 next 32 bits: 320
 
 Potential useful IMAGE on HORIZONTAL Boyos.png
 	 CHANNEL: Green
 	 BIT OF SIGNIFICANCE: 1
-	 height: 240
-	 width: 320
+	 first 32 bits: 240
+	 next 32 bits: 320
 
 Potential useful IMAGE on HORIZONTAL Boyos.png
 	 CHANNEL: Blue
 	 BIT OF SIGNIFICANCE: 1
-	 height: 240
-	 width: 320
+	 first 32 bits: 240
+	 next 32 bits: 320
 
 Potential useful TEXT on VERTICAL Boyos.png
 	 CHANNEL: Blue
 	 BIT OF SIGNIFICANCE: 4
-	 height: 3288
-	 width: 503316590
+	 first 32 bits: 3288
+	 next 32 bits: 503316590
 
 Potential useful TEXT on HORIZONTAL Boyos.png
 	 CHANNEL: Red
 	 BIT OF SIGNIFICANCE: 7
-	 height: 16383
-	 width: 4095
+	 first 32 bits: 16383
+	 next 32 bits: 4095
 
 Potential useful TEXT on HORIZONTAL Boyos.png
 	 CHANNEL: All
 	 BIT OF SIGNIFICANCE: 7
-	 height: 4
-	 width: 2454267903
+	 first 32 bits: 4
+	 next 32 bits: 2454267903
 
 Potential useful TEXT on HORIZONTAL Knight.png
 	 CHANNEL: All
 	 BIT OF SIGNIFICANCE: 1
-	 height: 2080
-	 width: 886664500
+	 first 32 bits: 2080
+	 next 32 bits: 886664500
 
 Potential useful TEXT on VERTICAL Knight.png
 	 CHANNEL: Green
 	 BIT OF SIGNIFICANCE: 4
-	 height: 4278190080
-	 width: 15
+	 first 32 bits: 4278190080
+	 next 32 bits: 15
 
 Potential useful TEXT on VERTICAL Knight.png
 	 CHANNEL: Blue
 	 BIT OF SIGNIFICANCE: 4
-	 height: 4278190080
-	 width: 1023
+	 first 32 bits: 4278190080
+	 next 32 bits: 1023
 
 Potential useful TEXT on HORIZONTAL OhHai.png
 	 CHANNEL: Blue
 	 BIT OF SIGNIFICANCE: 1
-	 height: 221
-	 width: 1299783792
+	 first 32 bits: 221
+	 next 32 bits: 1299783792
 
 Potential useful TEXT on HORIZONTAL OhHai.png
 	 CHANNEL: Red
 	 BIT OF SIGNIFICANCE: 5
-	 height: 160469376
-	 width: 813
+	 first 32 bits: 160469376
+	 next 32 bits: 813
 
 Potential useful TEXT on HORIZONTAL OhHai.png
 	 CHANNEL: Red
 	 BIT OF SIGNIFICANCE: 6
-	 height: 888115584
-	 width: 813
+	 first 32 bits: 888115584
+	 next 32 bits: 813
 
 Potential useful TEXT on HORIZONTAL OhHai.png
 	 CHANNEL: Green
 	 BIT OF SIGNIFICANCE: 6
-	 height: 15437952
-	 width: 256
+	 first 32 bits: 15437952
+	 next 32 bits: 256
 
 Potential useful TEXT on VERTICAL OhHai.png
 	 CHANNEL: Green
 	 BIT OF SIGNIFICANCE: 7
-	 height: 268439552
-	 width: 2048
+	 first 32 bits: 268439552
+	 next 32 bits: 2048
 
 Potential useful TEXT on VERTICAL Knight_Small.png
 	 CHANNEL: All
 	 BIT OF SIGNIFICANCE: 2
-	 height: 3169
-	 width: 2522507702
+	 first 32 bits: 3169
+	 next 32 bits: 2522507702
 
 Potential useful TEXT on HORIZONTAL Knight_Small.png
 	 CHANNEL: Green
 	 BIT OF SIGNIFICANCE: 7
-	 height: 2047
-	 width: 4294967295
+	 first 32 bits: 2047
+	 next 32 bits: 4294967295
 
 Potential useful TEXT on HORIZONTAL Knight_Small.png
 	 CHANNEL: Blue
 	 BIT OF SIGNIFICANCE: 7
-	 height: 4095
-	 width: 4294967295
+	 first 32 bits: 4095
+	 next 32 bits: 4294967295
 
 Potential useful TEXT on HORIZONTAL Knight_Small.png
 	 CHANNEL: All
 	 BIT OF SIGNIFICANCE: 7
-	 height: 2147483648
-	 width: 2
+	 first 32 bits: 2147483648
+	 next 32 bits: 2
 
 Potential useful TEXT on VERTICAL Waaaarm.png
 	 CHANNEL: Red
 	 BIT OF SIGNIFICANCE: 6
-	 height: 24
-	 width: 134217984
+	 first 32 bits: 24
+	 next 32 bits: 134217984
 
 Potential useful IMAGE on VERTICAL Waaaarm.png
 	 CHANNEL: Green
 	 BIT OF SIGNIFICANCE: 6
-	 height: 0
-	 width: 256
+	 first 32 bits: 0
+	 next 32 bits: 256
 
 Potential useful TEXT on VERTICAL Waaaarm.png
 	 CHANNEL: Blue
 	 BIT OF SIGNIFICANCE: 6
-	 height: 8216
-	 width: 136016640
+	 first 32 bits: 8216
+	 next 32 bits: 136016640
 
 Potential useful IMAGE on VERTICAL Waaaarm.png
 	 CHANNEL: All
 	 BIT OF SIGNIFICANCE: 6
-	 height: 0
-	 width: 128
+	 first 32 bits: 0
+	 next 32 bits: 128
 
 Potential useful TEXT on HORIZONTAL Waaaarm.png
 	 CHANNEL: All
 	 BIT OF SIGNIFICANCE: 7
-	 height: 756
-	 width: 2454267010
+	 first 32 bits: 756
+	 next 32 bits: 2454267010
 
 Potential useful TEXT on HORIZONTAL Drone_Footage_Frame001.png
 	 CHANNEL: Red
 	 BIT OF SIGNIFICANCE: 1
-	 height: 341
-	 width: 538976288
+	 first 32 bits: 341
+	 next 32 bits: 538976288
 
 Potential useful TEXT on HORIZONTAL Drone_Footage_Frame001.png
 	 CHANNEL: Green
 	 BIT OF SIGNIFICANCE: 1
-	 height: 226
-	 width: 538976288
+	 first 32 bits: 226
+	 next 32 bits: 538976288
 
 Potential useful TEXT on HORIZONTAL Drone_Footage_Frame001.png
 	 CHANNEL: Blue
 	 BIT OF SIGNIFICANCE: 1
-	 height: 249
-	 width: 538976288
+	 first 32 bits: 249
+	 next 32 bits: 538976288
 
 Potential useful TEXT on VERTICAL Drone_Footage_Frame001.png
 	 CHANNEL: Green
 	 BIT OF SIGNIFICANCE: 4
-	 height: 783
-	 width: 4294910201
+	 first 32 bits: 783
+	 next 32 bits: 4294910201
 
 Potential useful TEXT on VERTICAL Drone_Footage_Frame001.png
 	 CHANNEL: Green
 	 BIT OF SIGNIFICANCE: 5
-	 height: 783
-	 width: 4294967295
+	 first 32 bits: 783
+	 next 32 bits: 4294967295
 
 Potential useful IMAGE on HORIZONTAL Drone_Footage_Frame001.png
 	 CHANNEL: All
 	 BIT OF SIGNIFICANCE: 5
-	 height: 100
-	 width: 3504
+	 first 32 bits: 100
+	 next 32 bits: 3504
 
 Potential useful TEXT on VERTICAL Drone_Footage_Frame001.png
 	 CHANNEL: Green
 	 BIT OF SIGNIFICANCE: 6
-	 height: 783
-	 width: 4294967295
+	 first 32 bits: 783
+	 next 32 bits: 4294967295
 
 Potential useful IMAGE on HORIZONTAL Drone_Footage_Frame001.png
 	 CHANNEL: All
 	 BIT OF SIGNIFICANCE: 6
-	 height: 100
-	 width: 3504
+	 first 32 bits: 100
+	 next 32 bits: 3504
 
 Potential useful IMAGE on HORIZONTAL Standoff.png
 	 CHANNEL: All
 	 BIT OF SIGNIFICANCE: 3
-	 height: 240
-	 width: 320
+	 first 32 bits: 240
+	 next 32 bits: 320
 
 Potential useful TEXT on VERTICAL Standoff.png
 	 CHANNEL: All
 	 BIT OF SIGNIFICANCE: 6
-	 height: 1272
-	 width: 423814354
+	 first 32 bits: 1272
+	 next 32 bits: 423814354
 
