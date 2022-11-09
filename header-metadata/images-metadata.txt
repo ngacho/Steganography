@@ -1,0 +1,360 @@
+Potential useful TEXT on HORIZONTAL StetchyYawnyBois.png
+	 CHANNEL: Red
+	 BIT OF SIGNIFICANCE: 1
+	 height: 3839
+	 width: 2251428240
+
+Potential useful TEXT on VERTICAL StetchyYawnyBois.png
+	 CHANNEL: All
+	 BIT OF SIGNIFICANCE: 1
+	 height: 1784
+	 width: 543121247
+
+Potential useful TEXT on VERTICAL Chio2.png
+	 CHANNEL: Red
+	 BIT OF SIGNIFICANCE: 6
+	 height: 4096
+	 width: 2415919103
+
+Potential useful IMAGE on VERTICAL Chio2.png
+	 CHANNEL: All
+	 BIT OF SIGNIFICANCE: 6
+	 height: 0
+	 width: 64
+
+Potential useful TEXT on VERTICAL Lurking.png
+	 CHANNEL: Red
+	 BIT OF SIGNIFICANCE: 3
+	 height: 4280
+	 width: 1941109080
+
+Potential useful IMAGE on VERTICAL Lurking.png
+	 CHANNEL: All
+	 BIT OF SIGNIFICANCE: 3
+	 height: 320
+	 width: 240
+
+Potential useful TEXT on HORIZONTAL AlmostBoop.png
+	 CHANNEL: Green
+	 BIT OF SIGNIFICANCE: 7
+	 height: 2207
+	 width: 4026535999
+
+Potential useful TEXT on HORIZONTAL AlmostBoop.png
+	 CHANNEL: Blue
+	 BIT OF SIGNIFICANCE: 7
+	 height: 2207
+	 width: 2684354567
+
+Potential useful IMAGE on VERTICAL Chio1.png
+	 CHANNEL: All
+	 BIT OF SIGNIFICANCE: 1
+	 height: 240
+	 width: 320
+
+Potential useful TEXT on VERTICAL Chio1.png
+	 CHANNEL: Red
+	 BIT OF SIGNIFICANCE: 5
+	 height: 2
+	 width: 2448964688
+
+Potential useful TEXT on HORIZONTAL Castle.png
+	 CHANNEL: Red
+	 BIT OF SIGNIFICANCE: 1
+	 height: 4126
+	 width: 375741274
+
+Potential useful IMAGE on HORIZONTAL Castle.png
+	 CHANNEL: All
+	 BIT OF SIGNIFICANCE: 1
+	 height: 320
+	 width: 240
+
+Potential useful TEXT on HORIZONTAL AmVase.png
+	 CHANNEL: All
+	 BIT OF SIGNIFICANCE: 1
+	 height: 59
+	 width: 1769235826
+
+Potential useful TEXT on HORIZONTAL AmVase.png
+	 CHANNEL: Red
+	 BIT OF SIGNIFICANCE: 7
+	 height: 462
+	 width: 4291821568
+
+Potential useful TEXT on VERTICAL AmVase.png
+	 CHANNEL: Red
+	 BIT OF SIGNIFICANCE: 7
+	 height: 288
+	 width: 4202771967
+
+Potential useful IMAGE on HORIZONTAL AmVase.png
+	 CHANNEL: Green
+	 BIT OF SIGNIFICANCE: 7
+	 height: 0
+	 width: 8191
+
+Potential useful IMAGE on HORIZONTAL Lurking_Color_Balanced.png
+	 CHANNEL: All
+	 BIT OF SIGNIFICANCE: 1
+	 height: 240
+	 width: 320
+
+Potential useful IMAGE on HORIZONTAL Lurking_Color_Balanced.png
+	 CHANNEL: All
+	 BIT OF SIGNIFICANCE: 2
+	 height: 240
+	 width: 320
+
+Potential useful IMAGE on HORIZONTAL Lurking_Color_Balanced.png
+	 CHANNEL: All
+	 BIT OF SIGNIFICANCE: 3
+	 height: 240
+	 width: 320
+
+Potential useful TEXT on HORIZONTAL FlyAway.png
+	 CHANNEL: Red
+	 BIT OF SIGNIFICANCE: 1
+	 height: 617
+	 width: 1466464544
+
+Potential useful IMAGE on VERTICAL IsThatAMoth.png
+	 CHANNEL: All
+	 BIT OF SIGNIFICANCE: 2
+	 height: 240
+	 width: 320
+
+Potential useful IMAGE on VERTICAL IsThatAMoth.png
+	 CHANNEL: Red
+	 BIT OF SIGNIFICANCE: 5
+	 height: 0
+	 width: 20
+
+Potential useful TEXT on VERTICAL IsThatAMoth.png
+	 CHANNEL: Green
+	 BIT OF SIGNIFICANCE: 5
+	 height: 4190100480
+	 width: 127
+
+Potential useful IMAGE on HORIZONTAL AlbumCover.png
+	 CHANNEL: Green
+	 BIT OF SIGNIFICANCE: 1
+	 height: 320
+	 width: 240
+
+Potential useful TEXT on VERTICAL AlbumCover.png
+	 CHANNEL: All
+	 BIT OF SIGNIFICANCE: 6
+	 height: 1792
+	 width: 1996455934
+
+Potential useful TEXT on HORIZONTAL FlossyBoi.png
+	 CHANNEL: Green
+	 BIT OF SIGNIFICANCE: 1
+	 height: 194
+	 width: 1098129524
+
+Potential useful TEXT on VERTICAL EagleInAmherst.png
+	 CHANNEL: Green
+	 BIT OF SIGNIFICANCE: 4
+	 height: 8192
+	 width: 262027184
+
+Potential useful IMAGE on HORIZONTAL Boyos.png
+	 CHANNEL: Red
+	 BIT OF SIGNIFICANCE: 1
+	 height: 240
+	 width: 320
+
+Potential useful IMAGE on HORIZONTAL Boyos.png
+	 CHANNEL: Green
+	 BIT OF SIGNIFICANCE: 1
+	 height: 240
+	 width: 320
+
+Potential useful IMAGE on HORIZONTAL Boyos.png
+	 CHANNEL: Blue
+	 BIT OF SIGNIFICANCE: 1
+	 height: 240
+	 width: 320
+
+Potential useful TEXT on VERTICAL Boyos.png
+	 CHANNEL: Blue
+	 BIT OF SIGNIFICANCE: 4
+	 height: 3288
+	 width: 503316590
+
+Potential useful TEXT on HORIZONTAL Boyos.png
+	 CHANNEL: Red
+	 BIT OF SIGNIFICANCE: 7
+	 height: 16383
+	 width: 4095
+
+Potential useful TEXT on HORIZONTAL Boyos.png
+	 CHANNEL: All
+	 BIT OF SIGNIFICANCE: 7
+	 height: 4
+	 width: 2454267903
+
+Potential useful TEXT on HORIZONTAL Knight.png
+	 CHANNEL: All
+	 BIT OF SIGNIFICANCE: 1
+	 height: 2080
+	 width: 886664500
+
+Potential useful TEXT on VERTICAL Knight.png
+	 CHANNEL: Green
+	 BIT OF SIGNIFICANCE: 4
+	 height: 4278190080
+	 width: 15
+
+Potential useful TEXT on VERTICAL Knight.png
+	 CHANNEL: Blue
+	 BIT OF SIGNIFICANCE: 4
+	 height: 4278190080
+	 width: 1023
+
+Potential useful TEXT on HORIZONTAL OhHai.png
+	 CHANNEL: Blue
+	 BIT OF SIGNIFICANCE: 1
+	 height: 221
+	 width: 1299783792
+
+Potential useful TEXT on HORIZONTAL OhHai.png
+	 CHANNEL: Red
+	 BIT OF SIGNIFICANCE: 5
+	 height: 160469376
+	 width: 813
+
+Potential useful TEXT on HORIZONTAL OhHai.png
+	 CHANNEL: Red
+	 BIT OF SIGNIFICANCE: 6
+	 height: 888115584
+	 width: 813
+
+Potential useful TEXT on HORIZONTAL OhHai.png
+	 CHANNEL: Green
+	 BIT OF SIGNIFICANCE: 6
+	 height: 15437952
+	 width: 256
+
+Potential useful TEXT on VERTICAL OhHai.png
+	 CHANNEL: Green
+	 BIT OF SIGNIFICANCE: 7
+	 height: 268439552
+	 width: 2048
+
+Potential useful TEXT on VERTICAL Knight_Small.png
+	 CHANNEL: All
+	 BIT OF SIGNIFICANCE: 2
+	 height: 3169
+	 width: 2522507702
+
+Potential useful TEXT on HORIZONTAL Knight_Small.png
+	 CHANNEL: Green
+	 BIT OF SIGNIFICANCE: 7
+	 height: 2047
+	 width: 4294967295
+
+Potential useful TEXT on HORIZONTAL Knight_Small.png
+	 CHANNEL: Blue
+	 BIT OF SIGNIFICANCE: 7
+	 height: 4095
+	 width: 4294967295
+
+Potential useful TEXT on HORIZONTAL Knight_Small.png
+	 CHANNEL: All
+	 BIT OF SIGNIFICANCE: 7
+	 height: 2147483648
+	 width: 2
+
+Potential useful TEXT on VERTICAL Waaaarm.png
+	 CHANNEL: Red
+	 BIT OF SIGNIFICANCE: 6
+	 height: 24
+	 width: 134217984
+
+Potential useful IMAGE on VERTICAL Waaaarm.png
+	 CHANNEL: Green
+	 BIT OF SIGNIFICANCE: 6
+	 height: 0
+	 width: 256
+
+Potential useful TEXT on VERTICAL Waaaarm.png
+	 CHANNEL: Blue
+	 BIT OF SIGNIFICANCE: 6
+	 height: 8216
+	 width: 136016640
+
+Potential useful IMAGE on VERTICAL Waaaarm.png
+	 CHANNEL: All
+	 BIT OF SIGNIFICANCE: 6
+	 height: 0
+	 width: 128
+
+Potential useful TEXT on HORIZONTAL Waaaarm.png
+	 CHANNEL: All
+	 BIT OF SIGNIFICANCE: 7
+	 height: 756
+	 width: 2454267010
+
+Potential useful TEXT on HORIZONTAL Drone_Footage_Frame001.png
+	 CHANNEL: Red
+	 BIT OF SIGNIFICANCE: 1
+	 height: 341
+	 width: 538976288
+
+Potential useful TEXT on HORIZONTAL Drone_Footage_Frame001.png
+	 CHANNEL: Green
+	 BIT OF SIGNIFICANCE: 1
+	 height: 226
+	 width: 538976288
+
+Potential useful TEXT on HORIZONTAL Drone_Footage_Frame001.png
+	 CHANNEL: Blue
+	 BIT OF SIGNIFICANCE: 1
+	 height: 249
+	 width: 538976288
+
+Potential useful TEXT on VERTICAL Drone_Footage_Frame001.png
+	 CHANNEL: Green
+	 BIT OF SIGNIFICANCE: 4
+	 height: 783
+	 width: 4294910201
+
+Potential useful TEXT on VERTICAL Drone_Footage_Frame001.png
+	 CHANNEL: Green
+	 BIT OF SIGNIFICANCE: 5
+	 height: 783
+	 width: 4294967295
+
+Potential useful IMAGE on HORIZONTAL Drone_Footage_Frame001.png
+	 CHANNEL: All
+	 BIT OF SIGNIFICANCE: 5
+	 height: 100
+	 width: 3504
+
+Potential useful TEXT on VERTICAL Drone_Footage_Frame001.png
+	 CHANNEL: Green
+	 BIT OF SIGNIFICANCE: 6
+	 height: 783
+	 width: 4294967295
+
+Potential useful IMAGE on HORIZONTAL Drone_Footage_Frame001.png
+	 CHANNEL: All
+	 BIT OF SIGNIFICANCE: 6
+	 height: 100
+	 width: 3504
+
+Potential useful IMAGE on HORIZONTAL Standoff.png
+	 CHANNEL: All
+	 BIT OF SIGNIFICANCE: 3
+	 height: 240
+	 width: 320
+
+Potential useful TEXT on VERTICAL Standoff.png
+	 CHANNEL: All
+	 BIT OF SIGNIFICANCE: 6
+	 height: 1272
+	 width: 423814354
+
