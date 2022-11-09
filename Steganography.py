@@ -56,14 +56,14 @@ def headerHunter():
 def notifyOfUsefulBasicHeaders(innerHeight, innerWidth, channel_num, posLSB, file_name):
     text = ""
     if (innerHeight > 0 and innerHeight < 9000) or (innerWidth > 0 and innerWidth < 9000):
-        text = "Potential useful TEXT on " + file_name + " CHANNEL: " + channels[channel_num] +\
-            " BIT OF SIGNIFICANCE: " + str(posLSB) + " height: " + str(innerHeight) +\
-             " width: " + str(innerWidth) + "\n"
+        text = "Potential useful TEXT on " + file_name + "\n\t CHANNEL: " + channels[channel_num] +\
+            "\n\t BIT OF SIGNIFICANCE: " + str(posLSB) + "\n\t height: " + str(innerHeight) +\
+             "\n\t width: " + str(innerWidth) + "\n\n"
         
         if innerHeight < 9000 and innerWidth < 9000:
-            text = "Potential useful IMAGE on " + file_name + " CHANNEL: " + channels[channel_num] +\
-            " BIT OF SIGNIFICANCE: " + str(posLSB) + " height: " + str(innerHeight) +\
-             " width: " + str(innerWidth) + "\n"
+            text = "Potential useful IMAGE on " + file_name + "\n\t CHANNEL: " + channels[channel_num] +\
+            "\n\t BIT OF SIGNIFICANCE: " + str(posLSB) + "\n\t height: " + str(innerHeight) +\
+             "\n\t width: " + str(innerWidth) + "\n\n"
 
 
     return text
@@ -138,8 +138,8 @@ def readFirst64BitsByChannelAndBySignificantBitVertically(img, channel, posLSB, 
     height, width, _ = img.shape
     image_metadata = []
     break_out_flag = False
-    for r in range(height):
-        for c in range(width):
+    for c in range(width):
+        for r in range(height):
             if len(image_metadata) < header_size:
 
                 if(channel == 3):
