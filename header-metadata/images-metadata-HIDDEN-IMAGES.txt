@@ -1,0 +1,114 @@
+Potential useful IMAGE on VERTICAL Chio2.png
+	 CHANNEL: All
+	 BIT OF SIGNIFICANCE: 6
+	 first 32 bits: 0
+	 next 32 bits: 64
+
+Potential useful IMAGE on VERTICAL Lurking.png
+	 CHANNEL: All
+	 BIT OF SIGNIFICANCE: 3
+	 first 32 bits: 320
+	 next 32 bits: 240
+
+Potential useful IMAGE on VERTICAL Chio1.png
+	 CHANNEL: All
+	 BIT OF SIGNIFICANCE: 1
+	 first 32 bits: 240
+	 next 32 bits: 320
+
+Potential useful IMAGE on HORIZONTAL Castle.png
+	 CHANNEL: All
+	 BIT OF SIGNIFICANCE: 1
+	 first 32 bits: 320
+	 next 32 bits: 240
+
+Potential useful IMAGE on HORIZONTAL AmVase.png
+	 CHANNEL: Green
+	 BIT OF SIGNIFICANCE: 7
+	 first 32 bits: 0
+	 next 32 bits: 8191
+
+Potential useful IMAGE on HORIZONTAL Lurking_Color_Balanced.png
+	 CHANNEL: All
+	 BIT OF SIGNIFICANCE: 1
+	 first 32 bits: 240
+	 next 32 bits: 320
+
+Potential useful IMAGE on HORIZONTAL Lurking_Color_Balanced.png
+	 CHANNEL: All
+	 BIT OF SIGNIFICANCE: 2
+	 first 32 bits: 240
+	 next 32 bits: 320
+
+Potential useful IMAGE on HORIZONTAL Lurking_Color_Balanced.png
+	 CHANNEL: All
+	 BIT OF SIGNIFICANCE: 3
+	 first 32 bits: 240
+	 next 32 bits: 320
+
+Potential useful IMAGE on VERTICAL IsThatAMoth.png
+	 CHANNEL: All
+	 BIT OF SIGNIFICANCE: 2
+	 first 32 bits: 240
+	 next 32 bits: 320
+
+Potential useful IMAGE on VERTICAL IsThatAMoth.png
+	 CHANNEL: Red
+	 BIT OF SIGNIFICANCE: 5
+	 first 32 bits: 0
+	 next 32 bits: 20
+
+Potential useful IMAGE on HORIZONTAL AlbumCover.png
+	 CHANNEL: Green
+	 BIT OF SIGNIFICANCE: 1
+	 first 32 bits: 320
+	 next 32 bits: 240
+
+Potential useful IMAGE on HORIZONTAL Boyos.png
+	 CHANNEL: Red
+	 BIT OF SIGNIFICANCE: 1
+	 first 32 bits: 240
+	 next 32 bits: 320
+
+Potential useful IMAGE on HORIZONTAL Boyos.png
+	 CHANNEL: Green
+	 BIT OF SIGNIFICANCE: 1
+	 first 32 bits: 240
+	 next 32 bits: 320
+
+Potential useful IMAGE on HORIZONTAL Boyos.png
+	 CHANNEL: Blue
+	 BIT OF SIGNIFICANCE: 1
+	 first 32 bits: 240
+	 next 32 bits: 320
+
+Potential useful IMAGE on VERTICAL Waaaarm.png
+	 CHANNEL: Green
+	 BIT OF SIGNIFICANCE: 6
+	 first 32 bits: 0
+	 next 32 bits: 256
+
+Potential useful IMAGE on VERTICAL Waaaarm.png
+	 CHANNEL: All
+	 BIT OF SIGNIFICANCE: 6
+	 first 32 bits: 0
+	 next 32 bits: 128
+
+Potential useful IMAGE on HORIZONTAL Drone_Footage_Frame001.png
+	 CHANNEL: All
+	 BIT OF SIGNIFICANCE: 5
+	 first 32 bits: 100
+	 next 32 bits: 3504
+
+Potential useful IMAGE on HORIZONTAL Drone_Footage_Frame001.png
+	 CHANNEL: All
+	 BIT OF SIGNIFICANCE: 6
+	 first 32 bits: 100
+	 next 32 bits: 3504
+
+Potential useful IMAGE on HORIZONTAL Standoff.png
+	 CHANNEL: All
+	 BIT OF SIGNIFICANCE: 3
+	 first 32 bits: 240
+	 next 32 bits: 320
+
